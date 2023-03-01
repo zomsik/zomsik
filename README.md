@@ -5,7 +5,11 @@ I am actually doing Master's degree on Lublin University of Technology. I'm look
 
 &nbsp; 
 
-### Currently i mostly want to:
+### Currently i am working on:
++ Arduino controller for discord bot allowing to track actually played song and skip songs on chosen server
++ Spring Boot Web application
+
+### I plan to do this in the near future:
 + Add more functions to my discord bot
 + Learn about JPA and Hibernate
 + Make another huge project
